@@ -22,7 +22,7 @@ public class Main {
         System.out.println(set);
 
 
-        // ThreadLocalRandom.current().nextInt(1,10);
+        // ThreadLocalRandom.current().nextInt(1,10);//
 
 
     }
